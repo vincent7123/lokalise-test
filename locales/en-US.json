@@ -1,0 +1,183 @@
+{
+    "AppleLoginButton": {
+      "notes": "Ignore Apple",
+      "translation": "Sign in with Apple"
+    },
+    "DefaultScreen.FeedbackLink.placeholder": {
+      "notes": "Feedback",
+      "translation": "How can we help?"
+    },
+    "DefaultScreen.FeedbackLink.text": {
+      "notes": "Feedback",
+      "translation": "Contact us"
+    },
+    "DefaultScreen.FeedbackLink.thankYouMsg": {
+      "notes": "Feedback",
+      "translation": "Thank you for your message. We'll get back to you soon!"
+    },
+    "DefaultScreen.FeedbackLink.title": {
+      "notes": "Feedback",
+      "translation": "Contact us"
+    },
+    "DefaultScreen.ScreenHeader.subtitle.link": {
+      "notes": "n/a",
+      "translation": "Sign up"
+    },
+    "DefaultScreen.ScreenHeader.subtitle.text": {
+      "notes": "n/a",
+      "translation": "Don't have an account?"
+    },
+    "DefaultScreen.ScreenHeader.title": {
+      "notes": "Ignore Neeva",
+      "translation": "Sign in to Neeva"
+    },
+    "DefaultScreen.input.placeholder": {
+      "notes": "n/a",
+      "translation": "Please enter your email address"
+    },
+    "GoogleLoginButton": {
+      "notes": "Ignore Google",
+      "translation": "Sign in with Google"
+    },
+    "MicrosoftLoginButton": {
+      "notes": "Ignore Microsoft",
+      "translation": "Sign in with Microsoft"
+    },
+    "NeevaLoginButton": {
+      "notes": "n/a",
+      "translation": "Sign in"
+    },
+    "OrDivider": {
+      "notes": "n/a",
+      "translation": "or"
+    },
+    "ProviderOptions.link": {
+      "notes": "'please' comes before",
+      "translation": "click here"
+    },
+    "ProviderOptions.period": {
+      "notes": "period",
+      "translation": "."
+    },
+    "ProviderOptions.setup": {
+      "notes": "Ignore Neeva, 'click here' comes next",
+      "translation": "If you are trying to set up a new Neeva account, please"
+    },
+    "ProviderOptions.signup": {
+      "notes": "Ignore Neeva",
+      "translation": "If you have already set up a Neeva account, please sign in below."
+    },
+    "ReferralsLeaderboard.people": {
+      "notes": "one or more plural",
+      "translation": "{count, plural, one {# more person} other {# more people}}"
+    },
+    "RetryMessage.genericInstructions.link": {
+      "notes": "'please' comes before",
+      "translation": "click here"
+    },
+    "RetryMessage.genericInstructions.signin": {
+      "notes": "Ignore Neeva",
+      "translation": "If you have already set up a Neeva account, please sign in below."
+    },
+    "RetryMessage.genericInstructions.signup": {
+      "notes": "'click here' comes next",
+      "translation": "If you are trying to set up a new Neeva account, please"
+    },
+    "RetryMessage.noAccountInstructions.contact": {
+      "notes": "'contact us' comes next",
+      "translation": "If you are still having problems, please"
+    },
+    "RetryMessage.noAccountInstructions.exists": {
+      "notes": "n/a",
+      "translation": "If you already have an account, you may have used a different email address, or chosen to use \"Sign In\" with a different provider"
+    },
+    "RetryMessage.noAccountInstructions.link": {
+      "notes": "'please' comes before",
+      "translation": "click here"
+    },
+    "RetryMessage.noAccountInstructions.noAccountFound": {
+      "notes": "n/a",
+      "translation": "We could not find your account."
+    },
+    "RetryMessage.noAccountInstructions.placeholder": {
+      "notes": "Feedback",
+      "translation": "How can we help?"
+    },
+    "RetryMessage.noAccountInstructions.signup": {
+      "notes": "'click here' comes next",
+      "translation": "If you would like to create a new account, please"
+    },
+    "RetryMessage.noAccountInstructions.text": {
+      "notes": "Feedback",
+      "translation": "contact us"
+    },
+    "RetryMessage.noAccountInstructions.thankYouMsg": {
+      "notes": "Feedback",
+      "translation": "Thank you for your message. We'll get back to you soon!"
+    },
+    "RetryMessage.noAccountInstructions.title": {
+      "notes": "Feedback",
+      "translation": "Contact Us"
+    },
+    "RetryMessage.reason.NL001.signup": {
+      "notes": "'Please visit url' comes before'",
+      "translation": "to sign up."
+    },
+    "RetryMessage.reason.NL001.visit": {
+      "notes": "url link come next",
+      "translation": "Please visit"
+    },
+    "RetryMessage.reason.NL002": {
+      "notes": "Ignore Neeva",
+      "translation": "Please try again with the login provider you used to create your Neeva account."
+    },
+    "RetryMessage.reason.NL003": {
+      "notes": "Ignore Google, Neeva",
+      "translation": "Please \"Sign in with Google\", which was used when creating your Neeva account."
+    },
+    "RetryMessage.reason.NL004": {
+      "notes": "Ignore Apple, Neeva",
+      "translation": "Please \"Sign in with Apple\", which was used when creating your Neeva account."
+    },
+    "RetryMessage.reason.NL005": {
+      "notes": "Ignore Microsoft, Neeva",
+      "translation": "Please \"Sign in with Microsoft\", which was used when creating your Neeva account."
+    },
+    "RetryMessage.reason.NL006": {
+      "notes": "n/a",
+      "translation": "Your invite token is invalid."
+    },
+    "RetryMessage.reason.NL007": {
+      "notes": "n/a",
+      "translation": "Your invite token has expired."
+    },
+    "RetryMessage.reason.NL008": {
+      "notes": "n/a",
+      "translation": "Your invite token has already been used."
+    },
+    "RetryMessage.reason.NL009": {
+      "notes": "n/a",
+      "translation": "Your login provider did not return an email address; please use an invite token to create an account."
+    },
+    "RetryMessage.reason.NL013": {
+      "notes": "n/a",
+      "translation": "Please click \"Sign in\" to continue."
+    },
+    "RetryMessage.reason.NL015": {
+      "notes": "Ignore Neeva",
+      "translation": "You have denied the requested permissions. Please authorize Neeva for login."
+    },
+    "RetryMessage.reason.NL100": {
+      "notes": "SSO is an abbreviation for single sign on",
+      "translation": "Please login using the SSO provider for your organization."
+    },
+    "RetryMessage.reason.defaultMessage": {
+      "notes": "n/a",
+      "translation": "Your previous login attempt failed. Please try again."
+    },
+    "RetryMessage.reason.unknown": {
+      "notes": "n/a",
+      "translation": "An unknown error occurred. Please try again."
+    }
+  }
+  
